@@ -12,6 +12,7 @@
     color: rgb(138, 43, 226);
     font-size: 32px;
     font-family: Big Shoulders Stencil;
+    text-align: center;
 }
 .texto{
     background-color: aqua;
@@ -19,5 +20,13 @@
 .h2{
     font-family: Big Shoulders Stencil;
     font-size: 28px;
-    color:dodgerblue;
+    color:blue;
+}
+.texto-inicial{
+    font-size: 24px;
+    color:blue;
+}
+.texto-fonte{
+    font-size: 18px;
+    color:blue;
 }
