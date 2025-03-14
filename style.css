@@ -1,6 +1,5 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil:opsz,wght@10..72,100..900&display=swap');
-
 .cabecalho{
     background-color: #FFFF;
     width: 100%;
@@ -13,4 +12,12 @@
     color: rgb(138, 43, 226);
     font-size: 32px;
     font-family: Big Shoulders Stencil;
+}
+.texto{
+    background-color: aqua;
+}
+.h2{
+    font-family: Big Shoulders Stencil;
+    font-size: 28px;
+    color:dodgerblue;
 }
