@@ -15,7 +15,7 @@
     text-align: center;
 }
 .texto{
-    background-color:chartreuse;
+    background-color:rgb(245, 247, 243);
 }
 .h2{
     font-family: Big Shoulders Stencil;
@@ -30,7 +30,6 @@
     font-size: 18px;
     color:blue;
 }
-.primeira-linha{
-    display: grid;
-    grid-column: 30%, 30%, 30%;
+.foto{
+        width: 33%;
 }
