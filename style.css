@@ -4,34 +4,56 @@
     background-color: #FFFF;
     width: 100%;
 }
-.topicos{
-    color: black;
+.cabecalho{
+    width: 100%;
+}
+.botao{
+    color: #e8e9e5;
     font-size: 24px;
+    text-decoration: none;
 }
 .titulo{
-    color: rgb(138, 43, 226);
+    color: #4d543d;
     font-size: 32px;
-    font-family: Big Shoulders Stencil;
+    font-family:Emblema One;
     text-align: center;
 }
-.texto{
-    background-color:rgb(245, 247, 243);
-}
 .h2{
-    font-family: Big Shoulders Stencil;
+    font-family: Emblema One;
     font-size: 28px;
-    color:blue;
+    color: #4d543d;
 }
 .texto-inicial{
     font-size: 24px;
-    color:blue;
+    color: #f2f5eb;
 }
 .texto-fonte{
     font-size: 18px;
-    color:blue;
+    color: #6c6e69;
 }
 .foto{
-        width: 33%;
+    width: 33%;
+    border-radius: 10px;
+    height: 500px;
+}
+.texto-descricao{
+    font-size: 18px;
+    display: inline-block;
+}
+.foto-explorar{
+    text-align: left;
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+}
+.destino{
+    display: flex;
+    align-items: center;
+}
+.ul{
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
 }
 .topicos{
     text-decoration: none;
