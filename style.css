@@ -1,5 +1,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil:opsz,wght@10..72,100..900&display=swap');
+:root{
+    background-color: #f3f6f8;
+}
 .cabecalho{
     background-color: #f3f6f8;
     width: 100%;
