@@ -8,28 +8,29 @@
     width: 100%;
 }
 .botao{
-    color: #e8e9e5;
+    color: #2f3e4b;
     font-size: 24px;
     text-decoration: none;
 }
 .titulo{
-    color: #12a1da;
+    color: #64799a;
     font-size: 32px;
     font-family:Emblema One;
     text-align: center;
+    padding-top: 3em;
 }
 .h2{
     font-family: Emblema One;
     font-size: 28px;
-    color: #4d543d;
+    color: #285867;
 }
 .texto-inicial{
     font-size: 24px;
-    color: #f2f5eb;
+    color: #4f7cac;
 }
 .texto-fonte{
     font-size: 18px;
-    color: #10777b;
+    color: #75a1b6;
 }
 .foto{
     width: 33%;
@@ -37,7 +38,7 @@
     height: 500px;
 }
 .texto-descricao{
-    font-size: 18px;
+    font-size: 24px;
     display: inline-block;
 }
 .foto-explorar{
@@ -50,25 +51,22 @@
     display: flex;
     align-items: center;
 }
-.ul{
-    text-decoration: none;
-    list-style-type: none;
-    display: flex;
-}
+
 .topicos{
-    text-decoration: none;
-    list-style-type: none;
     display: flex;
-}
-.li{
-    text-decoration: none;
+    position: absolute;
+    padding: 1em;
+    list-style-type: none; 
+    flex-wrap: wrap;
+    width: 100%;
+    text-align: left;
 }
 .botao-link{
     text-decoration: none;
     display: flex;
-    color:#d2e4a7;
+    color:#e8fbbb;
     font-size: 24px;
     padding-left: 2em;
     padding-right: 2em;
-    background-color: #307df1;
+    background-color: #8dbbcb;
 }
